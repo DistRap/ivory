@@ -1,6 +1,7 @@
 {-# LANGUAGE MultiParamTypeClasses #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 {-# LANGUAGE FlexibleInstances #-}
+{-# LANGUAGE FlexibleContexts #-}
 -- Needed to check (SafeCast to from) in the instance constraints for
 -- RuntimeCast.
 {-# LANGUAGE UndecidableInstances #-}
